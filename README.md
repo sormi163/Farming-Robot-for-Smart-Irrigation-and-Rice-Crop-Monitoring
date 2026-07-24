@@ -56,30 +56,6 @@ The circuit diagram of the proposed smart agriculture robot is shown below.
 
 ---
 
-## Project Photos
-
-The following images show the hardware prototype and the web dashboard of the smart agriculture robot.
-
-### Robot Prototype
-
-<p align="center">
-  <img src="images/robo.jpeg" alt="Robot Prototype" width="500">
-</p>
-
-### Web Dashboard
-
-<p align="center">
-  <img src="images/dashboard.png" alt="Web Dashboard" width="800">
-</p>
-
-### Complete Robot Prototype
-
-<p align="center">
-  <img src="images/robot_prototype.jpeg" alt="Complete Robot Prototype" width="500">
-</p>
-
-
-
 ## Arduino Code
 
 The project is developed using the ESP32 Development Board and programmed in Arduino IDE.
@@ -95,7 +71,22 @@ ESP32Servo Library
 
 Click here for the source code.
 ## Project Photos
-## Web Dashboard
+
+The following images show the hardware prototype and the web dashboard of the smart agriculture robot.
+### Robot Prototype
+
+<p align="center">
+  <img src="images/robot_prototype.jpeg" alt="Complete Robot Prototype" width="500">
+</p>
+
+
+
+### Web Dashboard
+
+<p align="center">
+  <img src="images/dashboard.png" alt="Web Dashboard" width="800">
+</p>
+
 
 The robot hosts a local web server using the ESP32 Wi-Fi module. Through the dashboard, users can:
 
