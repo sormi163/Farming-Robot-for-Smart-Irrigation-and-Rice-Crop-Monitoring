@@ -58,21 +58,22 @@ The circuit diagram of the proposed smart agriculture robot is shown below.
 
 ## Arduino Code
 
-The project is developed using the **ESP32 Development Board** and programmed in **Arduino IDE**.
+The project is developed using the **ESP32 Development Board** and programmed in the **Arduino IDE**.
 
-Before running the project, make sure you are familiar with the ESP32, sensors, and motor control modules.
+Before running the project, make sure the required libraries are installed.
 
 ### Required Libraries
 
 - WiFi.h
 - WebServer.h
-- DHT Sensor Library
-- ESP32Servo Library
+- DHT.h
+- ESP32Servo.h
 
 ### Source Code
 
-**[Click here to view the Arduino source code](Smart_Agriculture_Robot.ino)**
+The complete Arduino source code is available below.
 
+👉 **[Smart Agriculture Robot Code](Arduino_Code/Smart_Agriculture_Robot.ino)**
 ## Project Photos
 
 The following images show the hardware prototype and the web dashboard of the smart agriculture robot.
